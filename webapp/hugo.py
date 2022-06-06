@@ -8,7 +8,7 @@ import numpy as np
 # SETUP
 # -----------------------------------------------------------------------------
 # Read API key from file
-with open('../API_key_GoogleMaps.txt', 'r') as f:
+with open('../API_keys/API_key_GoogleMaps.txt', 'r') as f:
     APIkey = f.read().strip()
 
 # Authenticate/open API session

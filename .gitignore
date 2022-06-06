@@ -1,4 +1,4 @@
 model/data/*.pkl
 model/.ipynb_checkpoints
 model/data/raw_data/*
-API_key_GoogleMaps.txt
+API_keys/*
