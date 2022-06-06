@@ -1,4 +1,4 @@
-# hugo
+# Hugo
 #### A webapp for predicting restaurant health inspection results using Google Maps data
 
 Created for The Data Incubator capstone project, fulfilling requirements:
