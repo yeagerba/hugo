@@ -148,5 +148,5 @@ if st.button('Search'):
             st.write(f'### Estimated health inspection grade: <span style="color:red">C</span>', unsafe_allow_html=True)
             st.write('This restaurant may be in danger of shutting down due to poor food safety prctices.')
 
-        st.write(f'Estimated NYC DOHMH inspection score: {est_insp_score[0]}')
+        st.write(f'Estimated NYC DOHMH inspection score: {round(est_insp_score[0])}')
         st.write('For more information on inspection scores, grades, and guidelines, visit the [NYC DOHMH website](https://www1.nyc.gov/site/doh/business/food-operators/letter-grading-for-restaurants.page)')
