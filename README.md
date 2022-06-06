@@ -15,6 +15,6 @@ Created for The Data Incubator capstone project, fulfilling requirements:
 5. A deliverable
   - The Jupyter notebook `model/Food Safety Model Development.ipynb` details data processing and development of the model.
 
-## Notes:
+### Notes:
 - The web app requires a working Google Maps API key, stored in `API_keys/API_key_GoogleMaps.txt`.
 - Data used for model training is located in `model/data/raw_data.zip` and must be unzipped before running the model development Jupyter notebook.
