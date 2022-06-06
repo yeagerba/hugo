@@ -17,4 +17,5 @@ Created for The Data Incubator capstone project, fulfilling requirements:
 
 ### Notes:
 - The web app requires a working Google Maps API key, stored in `API_keys/API_key_GoogleMaps.txt`.
+- To run the webapp navigate to the 'webapp/' directory and run `streamlit run hugo.py`
 - Data used for model training is located in `model/data/raw_data.zip` and must be unzipped before running the model development Jupyter notebook.
